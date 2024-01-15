@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jose Luis Petro Otero
+ 👋 Hi, I’m Jose Luis Petro Otero
   
 <!---
 Superjosedev129/Superjosedev129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
